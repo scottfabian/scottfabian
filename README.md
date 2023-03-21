@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottfabian
 - 👀 I’m interested in volleyball, music, gaming, and technology
-- 🌱 I’m currently learning front end web development
+- 🌱 I'm currently a C# developer in .NET 6/7
 - 💞️ I’m looking to collaborate on practice projects
 - 📫 How to reach me: send me a message!
 
